@@ -36,10 +36,10 @@
     {
       "group": "Networking in the Cloud",
       "pages": [
-        "1-introduction/0-introduction",
-        "1-introduction/1-learning-objectives",
-        "1-introduction/2-prerequisites",
-        "1-introduction/3-your-challenge"
+        "3-lab2-networking-in-the-cloud/1-what-is-a-vpc",
+        "3-lab2-networking-in-the-cloud/2-create-a-vpc",
+        "3-lab2-networking-in-the-cloud/3-vpc-subnets",
+        "3-lab2-networking-in-the-cloud/4-vpc-challenge"
       ]
     },
     {
