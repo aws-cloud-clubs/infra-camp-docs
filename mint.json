@@ -63,5 +63,9 @@
   ],
   "footerSocials": {
     "github": "https://github.com/aws-cloud-clubs"
+  },
+  "feedback": {
+    "suggestEdit": true,
+    "raiseIssue": true
   }
 }
