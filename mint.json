@@ -45,19 +45,18 @@
     {
       "group": "Storage in the Cloud",
       "pages": [
-        "1-introduction/0-introduction",
-        "1-introduction/1-learning-objectives",
-        "1-introduction/2-prerequisites",
-        "1-introduction/3-your-challenge"
+        "4-introduction/0-introduction",
+        "4-introduction/1-learning-objectives",
+        "4-introduction/2-prerequisites",
+        "4-introduction/3-your-challenge"
       ]
     },
     {
       "group": "Wrap Up",
       "pages": [
-        "1-introduction/0-introduction",
-        "1-introduction/1-learning-objectives",
-        "1-introduction/2-prerequisites",
-        "1-introduction/3-your-challenge"
+        "5-wrap-up/0-wrap-up",
+        "5-wrap-up/1-summary",
+        "5-wrap-up/2-clean-up"
       ]
     }
   ],
