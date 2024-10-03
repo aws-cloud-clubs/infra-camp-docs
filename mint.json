@@ -23,14 +23,41 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Security in the Cloud",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "2-lab1-security-in-the-cloud/1-authentication-and-authorization",
+        "2-lab1-security-in-the-cloud/2-iam-principals",
+        "2-lab1-security-in-the-cloud/3-iam-dashboard",
+        "2-lab1-security-in-the-cloud/4-create-iam-users",
+        "2-lab1-security-in-the-cloud/5-iam-challenge"
+
+      ]
+    },
+    {
+      "group": "Networking in the Cloud",
+      "pages": [
+        "1-introduction/0-introduction",
+        "1-introduction/1-learning-objectives",
+        "1-introduction/2-prerequisites",
+        "1-introduction/3-your-challenge"
+      ]
+    },
+    {
+      "group": "Storage in the Cloud",
+      "pages": [
+        "1-introduction/0-introduction",
+        "1-introduction/1-learning-objectives",
+        "1-introduction/2-prerequisites",
+        "1-introduction/3-your-challenge"
+      ]
+    },
+    {
+      "group": "Wrap Up",
+      "pages": [
+        "1-introduction/0-introduction",
+        "1-introduction/1-learning-objectives",
+        "1-introduction/2-prerequisites",
+        "1-introduction/3-your-challenge"
       ]
     }
   ],
