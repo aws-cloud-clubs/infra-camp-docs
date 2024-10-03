@@ -14,11 +14,12 @@
   },
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Introduction",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "1-introduction/0-introduction",
+        "1-introduction/1-learning-objectives",
+        "1-introduction/2-prerequisites",
+        "1-introduction/3-your-challenge"
       ]
     },
     {
