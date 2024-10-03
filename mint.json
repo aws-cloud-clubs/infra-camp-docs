@@ -45,10 +45,10 @@
     {
       "group": "Storage in the Cloud",
       "pages": [
-        "4-lab3-storage-in-the-cloud/0-introduction",
-        "4-lab3-storage-in-the-cloud/1-learning-objectives",
-        "4-lab3-storage-in-the-cloud/2-prerequisites",
-        "4-lab3-storage-in-the-cloud/3-your-challenge"
+        "4-lab3-storage-in-the-cloud/1-what-is-s3",
+        "4-lab3-storage-in-the-cloud/2-creating-an-s3-bucket",
+        "4-lab3-storage-in-the-cloud/3-add-objects-to-the-s3-bucket",
+        "4-lab3-storage-in-the-cloud/4-s3-bucket-challenge"
       ]
     },
     {
