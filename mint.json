@@ -16,10 +16,11 @@
     {
       "group": "Introduction",
       "pages": [
-        "1-introduction/0-introduction",
-        "1-introduction/1-learning-objectives",
-        "1-introduction/2-prerequisites",
-        "1-introduction/3-your-challenge"
+        "1-introduction/1-before-start",
+        "1-introduction/2-introduction",
+        "1-introduction/3-learning-objectives",
+        "1-introduction/4-prerequisites",
+        "1-introduction/5-your-challenge"
       ]
     },
     {
